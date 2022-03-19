@@ -46,6 +46,26 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreevIVdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  ---
+ 
+ I want to introduce you to my projects. You can see a detailed description of each project separately, here will be a comparative description of the technologies used
+
+| Technology / AppName        | GHProfile     | Marvel Heroes | My portfolio   
+| ---                         | ------------- | ------------- | ------------- |
+|  Description                | UI implementation for GitHub API | Graphic intefrafe for developer.marvel.com | Group development of stock applications |
+|  Architecture               | MVC-N           | MVP-C         | MVVM-C + Combine        | 
+|  iOS support                | 15.0 +          |15.0 ++   | from iOS 13   | 
+|  Layot                      | Code            | Code           | Code | 
+|  Framework                  | UIKit           | UIKit         | UIKit         | 
+|  Network                    | URLSession      | URLSession    | URLSession     | 
+|  User storage               | UsefDefaults    | Firebase | CoreData     | 
+|  Concurrency                | GCD             | GCD           | GCD | 
+|  Package manager            | No 3pl          | Cocoapods           | No 3pl     | 
+|  Swift Style Guide          | SwiftLint by Raywenderlinch | SwiftLint by Raywenderlinch  | SwiftLint by Raywenderlinch           | 
+|  Screenshot       | ![alt text](https://github.com/AndreevIVdev/GHProfile/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-19%20at%2020.54.58.gif?raw=true)            |![alt text](https://github.com/AndreevIVdev/Marvel-Heroes/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-19%20at%2022.36.35.gif?raw=true)  | ![alt text](https://raw.githubusercontent.com/ZheDre1N/ChartView/main/screen.gif?raw=true?raw=true) | 
+
+ 
+ 
+ 
 <!--
  ### :writing_hand: Blog Posts :
  <!-- BLOG-POST-LIST:START 
