@@ -51,7 +51,7 @@
 
 | Technology / AppName        | GHProfile     | Marvel Heroes | My portfolio   
 | ---                         | ------------- | ------------- | ------------- |
-|  Description                | UI implementation for GitHub API | Graphic intefrafe for developer.marvel.com | Group development of stock applications |
+|  Description                | UI implementation for GitHub API | Graphic interface for developer.marvel.com | Group development of stock applications |
 |  Architecture               | MVC-N           | MVP-C         | MVVM-C + Combine        | 
 |  iOS support                | 15.0 +          |15.0 ++   | from iOS 13   | 
 |  Layot                      | Code            | Code           | Code | 
