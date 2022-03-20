@@ -47,7 +47,7 @@
 
  ---
  
- I want to introduce you to my projects. You can see a detailed description of each project separately, here will be a comparative description of the technologies used
+ ## Welcome to my projects!
 
 | Technology / AppName        | GHProfile     | Marvel Heroes | My portfolio   
 | ---                         | ------------- | ------------- | ------------- |
