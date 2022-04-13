@@ -67,8 +67,8 @@
  
  ### :page_facing_up: My Certificates:
  <div align="center">
-  <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/Андреев%20Илья.png?raw=true" width="300"/>
-  <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/383e54d731da85523b42abe58e796eb566092023.png?raw=true" width="300"/>
+  <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/Андреев%20Илья.png?raw=true" height="400"/>
+  <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/383e54d731da85523b42abe58e796eb566092023.png?raw=true" height="400"/>
 </div>
  
 <!--
