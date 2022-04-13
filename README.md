@@ -61,14 +61,14 @@
 |  Concurrency                | GCD             | GCD           | GCD | 
 |  Package manager            | No 3pl          | Cocoapods           | No 3pl     | 
 |  Swift Style Guide          | SwiftLint by Raywenderlinch | SwiftLint by Raywenderlinch  | SwiftLint by Raywenderlinch           | 
-|  Screenshot       | ![alt text](https://github.com/AndreevIVdev/GHProfile/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-19%20at%2020.54.58.gif?raw=true)            |![alt text](https://github.com/AndreevIVdev/Marvel-Heroes/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-19%20at%2022.36.35.gif?raw=true)  | ![alt text](https://raw.githubusercontent.com/ZheDre1N/ChartView/main/screen.gif?raw=true?raw=true) | 
+|  Screenshot       | ![alt text](https://github.com/AndreevIVdev/GHProfile/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-19%20at%2020.54.58.gif?raw=true)            |![alt text](https://github.com/AndreevIVdev/Marvel-Heroes/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-19%20at%2022.36.35.gif?raw=true)  | ![alt text](https://github.com/ZheDre1N/PR-Invest/raw/main/My%20portfolio.gif?raw=true) | 
 
  ---
  
  ### :page_facing_up: My Certificates:
  <div align="center">
-  <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/383e54d731da85523b42abe58e796eb566092023.png?raw=true" width="600"/>
-  <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/Андреев%20Илья.png?raw=true" width="600"/>
+  <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/383e54d731da85523b42abe58e796eb566092023.png?raw=true" width="300"/>
+  <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/Андреев%20Илья.png?raw=true" width="300"/>
 </div>
  
 <!--
