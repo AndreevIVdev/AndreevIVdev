@@ -4,7 +4,7 @@
     <a href="https://leetcode.com/AndreevIVdev/">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
     </a>
-    <a href="https://twitter.com/Ilya_Andreev228">
+    <a href="https://twitter.com/andreev_dev">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
