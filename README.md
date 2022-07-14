@@ -20,7 +20,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
  I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint Petersburg, Russia.
  - :telescope: I learn swift and enjoy the process of creating mobile applications every day!
 
@@ -30,6 +30,14 @@
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-AndreevIV-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndreevIVdev)
 
+ ---
+ 
+ ### :muscle: Skills:
+- [x] Swift, SwiftUI, UIKit<br>
+- [x] Architecture: reactive MVVM<br>
+- [x] Git via CL, GitFlow<br>
+- [x] AVFoundation
+ 
  ---
 
  ### :hammer_and_wrench: Languages and Tools :
@@ -44,24 +52,6 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreevIVdev&theme=dark&background=000000)](https://git.io/streak-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreevIVdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
- ---
- 
- ## Welcome to my projects!
-
-| Technology / AppName        | GHProfile     | Marvel Heroes | My portfolio   
-| ---                         | ------------- | ------------- | ------------- |
-|  Description                | UI implementation for GitHub API | Graphic interface for developer.marvel.com | Group development of stock applications |
-|  Architecture               | MVC-N           | MVP-C         | MVVM-C + Combine        | 
-|  iOS support                | 15.0 +          |15.0 ++   | from iOS 13   | 
-|  Layot                      | Code            | Code           | Code | 
-|  Framework                  | UIKit           | UIKit         | UIKit         | 
-|  Network                    | URLSession      | URLSession    | URLSession     | 
-|  User storage               | UsefDefaults    | Firebase | CoreData     | 
-|  Concurrency                | GCD             | GCD           | GCD | 
-|  Package manager            | No 3pl          | Cocoapods           | No 3pl     | 
-|  Swift Style Guide          | SwiftLint by Raywenderlinch | SwiftLint by Raywenderlinch  | SwiftLint by Raywenderlinch           | 
-|  Screenshot       | ![alt text](https://github.com/AndreevIVdev/GHProfile/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-19%20at%2020.54.58.gif?raw=true)            |![alt text](https://github.com/AndreevIVdev/Marvel-Heroes/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-19%20at%2022.36.35.gif?raw=true)  | ![alt text](https://github.com/ZheDre1N/PR-Invest/raw/main/My%20portfolio.gif?raw=true) | 
 
  ---
  
