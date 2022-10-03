@@ -36,7 +36,6 @@
 - [x] Swift, SwiftUI, UIKit<br>
 - [x] Architecture: reactive MVVM<br>
 - [x] Git via CL, GitFlow<br>
-- [x] AVFoundation
  
  ---
 
