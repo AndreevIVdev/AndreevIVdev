@@ -60,6 +60,7 @@
   <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/Андреев%20Илья.png?raw=true" height="350"/>
   <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/383e54d731da85523b42abe58e796eb566092023.png?raw=true" height="350"/>
   <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/982f5930-edd6-4611-9cf4-71b7aeb20cb5_pages-to-jpg-0001.jpg?raw=true" height="350"/>
+  <img src="https://github.com/AndreevIVdev/AndreevIVdev/blob/main/universal_diploma_page-0001.jpg?raw=true" height="350"/>
 </div>
  
 <!--
